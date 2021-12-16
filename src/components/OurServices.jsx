@@ -1,6 +1,6 @@
 import React from "react";
 import "./OurServices.css";
-import searchIcon from "../assets/searchIcon.png";
+
 export default function OurServices() {
   return (
     <div className="bg-white blob py-4">

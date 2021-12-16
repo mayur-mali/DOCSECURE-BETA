@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ArticleCard() {
   return (
-    <div className="min-h-screen flex-col h-auto p-10 flex items-center">
+    <div className="min-h-screen flex-col h-auto md:p-10 p-4 flex items-center">
       <h1 className="text-5xl text-black font-bold">
         Check out our latest article
       </h1>

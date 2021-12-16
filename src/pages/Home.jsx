@@ -1,6 +1,6 @@
 import React from "react";
 import OurServices from "../components/OurServices";
-import heroImage from "../assets/heroimage.png";
+
 import Info1 from "../components/Info1";
 import LandingSection from "../components/LandingSection";
 import Info2 from "../components/Info2";
